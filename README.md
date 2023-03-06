@@ -4,8 +4,6 @@
 * Asha
 * Varun
 
-* Sam Dinesh
-
 *Project Associated with* **Zummit Infolabs.**
                
 **Project :** Predicting Customer Lifetime Value using Regression
