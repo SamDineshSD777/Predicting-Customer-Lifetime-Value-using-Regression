@@ -1,4 +1,5 @@
 # Predicting Customer Lifetime Value using Regression
+*Project Associated with* **Zummit Infolabs.**
 
 ## Contributors :
 * Asha
