@@ -1,8 +1,10 @@
 # Predicting Customer Lifetime Value using Regression
 
 ## Contributors :
-* Asha Arvind 
-* Varun D
+* Asha
+* Varun
+
+* Sam Dinesh
 
 *Project Associated with* **Zummit Infolabs.**
                
